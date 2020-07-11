@@ -43,11 +43,20 @@ header {
   }
 .i1{width: 100%;}
 
-#text{
-    color:red;
-    font-size: 30px;
+.products{ width: 20%;
+    padding-top: 90px;
+   
 }
-#text:hover{
-    color: sandybrown;
-    background-color: slategray;
+#products{
+    text-align: center;
+    background-color: rgb(204, 204, 204);
+}
+div{
+    background-color: rgb(70, 73, 77) ;
+}
+footer{
+    text-align: center;
+    color: wheat;
+    background-color: black ;
+    padding: 15px;
 }
